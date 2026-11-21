@@ -3,7 +3,7 @@
 // Photos = the approved illustrative set (no team photos). Content = the real Bizcom copy only.
 import fs from 'node:fs';
 
-const V = '1.1';
+const V = '1.2';
 const PHONE = '(03) 9108 4865', TEL = 'tel:+61391084865', MOB = '+61 421 327 828', MOBTEL = 'tel:+61421327828';
 const EMAIL = 'lynn@bizcomlegal.com.au', WA = 'https://wa.me/61414822108';
 const ADDR = 'Suite 25, Third Floor, 2 Brandon Park Drive, Wheelers Hill VIC 3150';

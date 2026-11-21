@@ -346,6 +346,7 @@ button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
   .mani__copy{left:var(--gut);right:var(--gut);top:auto;bottom:90px;transform:none;width:auto}
   .dome__facts{bottom:max(12vh,84px);gap:18px}
   .dome__facts b{font-size:24px}
+  .subnav .wrap{flex-wrap:wrap;overflow:visible;padding-top:70px}
   .fgrid{grid-template-columns:1fr}
   .fcard__foot{flex-direction:column;align-items:flex-start;gap:16px}
   .ft__cols{grid-template-columns:1fr 1fr;gap:26px}
